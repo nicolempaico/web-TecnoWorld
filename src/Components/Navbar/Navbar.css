@@ -1,0 +1,147 @@
+/* rojo #ff0000; */
+
+.header {
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:1.5rem;
+    background-color: black;
+}
+
+.logo {
+    font-size: 35px;
+    font-weight: 800;
+    color: #ff0000;
+    cursor: pointer;
+    font-family: "Orbitron", sans-serif;
+    
+}
+.logo span {
+    color: #ffffff;
+}
+.navbar {
+    flex: 1;
+    margin-left: 3rem;
+}
+    .nav-links {
+        display: flex;
+        list-style: none;
+        gap: 1rem;
+        margin: 0;
+        padding: 0;
+    }
+    .nav-links a {
+        text-decoration: none;
+        color: #ffffff;
+        font-size: 14px;
+    }
+    .nav-links a:hover {
+        color: #ff0000;
+    }
+.icons {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+    .search-bar {
+        padding: 0.5rem;
+        border: 1px solid #ffffff;
+        border-radius: 4px;
+        outline: none;
+    }
+    .search-button,
+    .icon-button {
+        background: none;
+        border: none;
+        cursor: pointer;
+        font-size: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #ffffff;
+        transition: color 0.2s ease;
+    }
+    .search-button:hover,
+    .icon-button:hover {
+        color: #ff0000
+    }
+
+.user-name{
+
+    color:white;
+
+    font-weight:bold;
+
+    margin-right:15px;
+    font-family: "Orbitron", sans-serif;
+
+}
+
+
+
+.logout-btn,
+.login-btn{
+
+    background:#700000;
+    color:white;
+    border:none;
+    padding:8px 12px;
+    border-radius:8px;
+    cursor:pointer;
+    text-decoration:none;
+    font-weight:bold;
+    margin-left: 15px;
+    margin-right: 25px;
+
+}
+
+
+
+.logout-btn:hover,
+.login-btn:hover{
+
+    background:#3b0000;
+
+}
+/* carrito */
+.icon-button {
+    position: relative;
+    display: inline-block;
+}
+.counter {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #ff0000
+
+}
+
+
+@media(max-width:768px){
+
+    .header{
+        flex-direction:column;
+        gap:20px;
+    }
+
+
+    .navbar{
+        margin-left:0;
+    }
+
+
+    .icons{
+        flex-wrap:wrap;
+        justify-content:center;
+    }
+
+}

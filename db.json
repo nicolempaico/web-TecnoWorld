@@ -1,0 +1,537 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Teclado Mecánico Redragon Kumara K552 RGB",
+      "categoria": "teclados",
+      "precio": 189.9,
+      "marca": "Redragon",
+      "stock": 15,
+      "imagen": "https://www.venex.com.ar/products_images/1655234509_kumara_rainbow_k552-png_web-5.png",
+      "descripcion": "Teclado mecánico compacto con switches Outemu Blue, iluminación RGB y diseño resistente para gaming y trabajo."
+    },
+    {
+      "id": "2",
+      "nombre": "Teclado Logitech MX Keys S Inalámbrico",
+      "categoria": "teclados",
+      "precio": 459,
+      "marca": "Logitech",
+      "stock": 8,
+      "imagen": "https://store.teslards.pe/wp-content/uploads/2023/11/mx-keys-s-keyboard-top-view-graphite-esp.png",
+      "descripcion": "Teclado inalámbrico premium con retroiluminación inteligente, conexión Bluetooth y experiencia cómoda de escritura."
+    },
+    {
+      "id": "3",
+      "nombre": "Teclado Gamer HyperX Alloy Origins Core",
+      "categoria": "teclados",
+      "precio": 329.9,
+      "marca": "HyperX",
+      "stock": 12,
+      "imagen": "https://hca.pe/storage/media/large_ecWSYsvuICBTgmmYqztmeLlkvlZ5Sfy72ttq3lS3.png",
+      "descripcion": "Teclado mecánico gamer con estructura de aluminio, switches HyperX y efectos RGB personalizables."
+    },
+    {
+      "id": "4",
+      "nombre": "Mouse Logitech G502 HERO",
+      "categoria": "mouses",
+      "precio": 219.9,
+      "marca": "Logitech",
+      "stock": 20,
+      "imagen": "https://www.eccom.pe/wp-content/uploads/2023/10/img_2256_3_1596132642.png",
+      "descripcion": "Mouse gaming de alta precisión con sensor HERO 25K, botones programables y peso ajustable."
+    },
+    {
+      "id": "5",
+      "nombre": "Mouse Razer DeathAdder Essential",
+      "categoria": "mouses",
+      "precio": 99.9,
+      "marca": "Razer",
+      "stock": 25,
+      "imagen": "https://hca.pe/storage/media/large_xdcfMr5PIyFGrl4VIJcy6jQIWeL6khKcI7k39FIv.png",
+      "descripcion": "Mouse ergonómico gamer con sensor óptico de alta precisión y diseño cómodo para largas sesiones."
+    },
+    {
+      "id": "6",
+      "nombre": "Mouse Redragon M711 Cobra RGB",
+      "categoria": "mouses",
+      "precio": 119.9,
+      "marca": "Redragon",
+      "stock": 18,
+      "imagen": "https://hca.pe/storage/media/large_GHlowyeCo1biAm4nd0kX6g9KAk4NjdvLRtHWNtHd.png",
+      "descripcion": "Mouse gamer RGB con sensor óptico de 10000 DPI y botones programables."
+    },
+    {
+      "id": "7",
+      "nombre": "Monitor LG UltraGear 24GN600-B 24 pulgadas",
+      "categoria": "monitores",
+      "precio": 699,
+      "marca": "LG",
+      "stock": 10,
+      "imagen": "https://media.tatacroma.com/Croma%20Assets/Computers%20Peripherals/Monitor/Images/308947_4_sipejz.png",
+      "descripcion": "Monitor gamer Full HD de 24 pulgadas con panel IPS, 144Hz y tecnología AMD FreeSync."
+    },
+    {
+      "id": "8",
+      "nombre": "Monitor Samsung Odyssey G5 27 pulgadas",
+      "categoria": "monitores",
+      "precio": 1199,
+      "marca": "Samsung",
+      "stock": 6,
+      "imagen": "https://images.samsung.com/is/image/samsung/p6pim/pe/ls27cg552elxpe/gallery/pe-odyssey-g5-g55c-ls27cg552elxpe-539626583?$1164_776_PNG$",
+      "descripcion": "Monitor curvo gamer QHD con frecuencia de 165Hz y experiencia inmersiva."
+    },
+    {
+      "id": "9",
+      "nombre": "Monitor ASUS TUF Gaming VG249Q1A",
+      "categoria": "monitores",
+      "precio": 899,
+      "marca": "ASUS",
+      "stock": 7,
+      "imagen": "https://dasmitec.pe/wp-content/uploads/2023/10/VG249Q1Aww.png",
+      "descripcion": "Monitor gaming IPS Full HD con 165Hz diseñado para juegos competitivos."
+    },
+    {
+      "id": "10",
+      "nombre": "Audífonos HyperX Cloud II Wireless",
+      "categoria": "audifonos",
+      "precio": 499.9,
+      "marca": "HyperX",
+      "stock": 14,
+      "imagen": "https://hk-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/4/P/4P5K4AA-2_T1678883350.png",
+      "descripcion": "Audífonos inalámbricos gamer con sonido envolvente 7.1 y micrófono desmontable."
+    },
+    {
+      "id": "11",
+      "nombre": "Audífonos Logitech G435 Lightspeed",
+      "categoria": "audifonos",
+      "precio": 299.9,
+      "marca": "Logitech",
+      "stock": 16,
+      "imagen": "https://blink.cr/wp-content/uploads/2024/11/981-001049-i.webp",
+      "descripcion": "Audífonos ligeros inalámbricos con conexión Lightspeed y Bluetooth."
+    },
+    {
+      "id": "12",
+      "nombre": "Audífonos JBL Quantum 100",
+      "categoria": "audifonos",
+      "precio": 169.9,
+      "marca": "JBL",
+      "stock": 22,
+      "imagen": "https://www.perudataconsult.net/cdn/shop/files/1.JBL_Quantum350Wireless_ProductImage_Hero.png?v=1741459531",
+      "descripcion": "Headset gamer con sonido JBL QuantumSOUND y micrófono desmontable."
+    },
+    {
+      "id": "13",
+      "nombre": "Silla Gamer Cougar Armor One",
+      "categoria": "sillas gamer",
+      "precio": 799,
+      "marca": "Cougar",
+      "stock": 5,
+      "imagen": "https://lidercomputeraqp.com.pe/wp-content/uploads/2025/02/b-01.png",
+      "descripcion": "Silla gamer ergonómica con soporte lumbar, reposabrazos ajustables y estructura resistente."
+    },
+    {
+      "id": "14",
+      "nombre": "Silla Gamer Redragon Metis Pro",
+      "categoria": "sillas gamer",
+      "precio": 699.9,
+      "marca": "Redragon",
+      "stock": 9,
+      "imagen": "https://redragonshop.com/cdn/shop/products/C101-BR-7.png?v=1552356128&width=416",
+      "descripcion": "Silla gamer con diseño deportivo, espuma cómoda y ajuste de altura."
+    },
+    {
+      "id": "15",
+      "nombre": "Micrófono HyperX SoloCast USB",
+      "categoria": "microfonos",
+      "precio": 249.9,
+      "marca": "HyperX",
+      "stock": 13,
+      "imagen": "https://home.ripley.com.pe/Attachment/WOP_5/2004316432775/2004316432775.jpg",
+      "descripcion": "Micrófono USB compacto con grabación de alta calidad para streaming y reuniones."
+    },
+    {
+      "id": "16",
+      "nombre": "Micrófono Fifine K669B USB",
+      "categoria": "microfonos",
+      "precio": 199.9,
+      "marca": "Fifine",
+      "stock": 11,
+      "imagen": "https://fifinemicrophone.com/cdn/shop/files/FIFINE-K669B-usb-microphone.png?v=1770881705",
+      "descripcion": "Micrófono condensador USB ideal para creación de contenido, streaming y clases virtuales."
+    },
+    {
+      "id": "17",
+      "nombre": "Mousepad Logitech G640",
+      "categoria": "mousepads",
+      "precio": 139.9,
+      "marca": "Logitech",
+      "stock": 20,
+      "imagen": "https://img.terabyteshop.com.br/archive/2168293960/HTML%20002.png",
+      "descripcion": "Mousepad gamer de superficie optimizada para precisión y movimientos rápidos."
+    },
+    {
+      "id": "18",
+      "nombre": "Mousepad Razer Gigantus V2",
+      "categoria": "mousepads",
+      "precio": 129.9,
+      "marca": "Razer",
+      "stock": 17,
+      "imagen": "https://dojiw2m9tvv09.cloudfront.net/48881/product/000000000041503628664415036-17037.png",
+      "descripcion": "Mousepad gamer de gran tamaño con superficie de tela optimizada."
+    },
+    {
+      "id": "19",
+      "nombre": "Webcam Logitech C920 HD Pro",
+      "categoria": "webcams",
+      "precio": 329.9,
+      "marca": "Logitech",
+      "stock": 15,
+      "imagen": "https://identatronics.com.mx/wp-content/uploads/2015/09/INT-DIG-logitech-C920.png",
+      "descripcion": "Webcam Full HD 1080p con micrófonos integrados para videollamadas y streaming."
+    },
+    {
+      "id": "20",
+      "nombre": "Webcam Redragon GW800",
+      "categoria": "webcams",
+      "precio": 149.9,
+      "marca": "Redragon",
+      "stock": 19,
+      "imagen": "https://hca.pe/storage/media/large_dM2BJmmODbK30mvstKCpjyAiC6SI5Kqie41nwz6o.png",
+      "descripcion": "Webcam HD con micrófono integrado y conexión USB Plug and Play."
+    },
+    {
+      "id": "21",
+      "nombre": "Teclado Razer BlackWidow V4",
+      "categoria": "teclados",
+      "precio": 699.9,
+      "marca": "Razer",
+      "stock": 7,
+      "imagen": "https://i5.walmartimages.com/seo/Razer-BlackWidow-V4-Wired-Mechanical-Gaming-Keyboard-with-Wrist-Rest-Black_f1d54135-d946-4ca1-9d88-3268b60dd4a8.29031c5103dfaaabd23a14110175c59a.png",
+      "descripcion": "Teclado mecánico gamer premium con switches Razer, iluminación RGB Chroma y controles multimedia."
+    },
+    {
+      "id": "22",
+      "nombre": "Teclado Corsair K70 RGB Pro",
+      "categoria": "teclados",
+      "precio": 649.9,
+      "marca": "Corsair",
+      "stock": 6,
+      "imagen": "https://www.datacont.com/web/image/product.template/2679/image_1920?unique=6bfce28",
+      "descripcion": "Teclado mecánico profesional con switches Cherry MX, estructura de aluminio e iluminación RGB."
+    },
+    {
+      "id": "23",
+      "nombre": "Mouse SteelSeries Rival 3",
+      "categoria": "mouses",
+      "precio": 159.9,
+      "marca": "SteelSeries",
+      "stock": 14,
+      "imagen": "https://images.ctfassets.net/hmm5mo4qf4mf/6JeTt3A36dChpcazQKyHbB/ad71640570dea931c42f1114b92d9993/rival_3_gen_2_black_pdp_img_buy_02.png?fm=webp&q=90&fit=scale&w=1920",
+      "descripcion": "Mouse gaming con sensor TrueMove Core, iluminación RGB y diseño ergonómico."
+    },
+    {
+      "id": "24",
+      "nombre": "Mouse Logitech MX Master 3S",
+      "categoria": "mouses",
+      "precio": 399.9,
+      "marca": "Logitech",
+      "stock": 10,
+      "imagen": "https://hca.pe/storage/media/large_rJVVPODjT80tamFBqPNuQ0pxqeAabG1EjdXDweGa.webp",
+      "descripcion": "Mouse inalámbrico avanzado para productividad con sensor de alta precisión y desplazamiento MagSpeed."
+    },
+    {
+      "id": "25",
+      "nombre": "Monitor AOC Gaming 24G2 24 pulgadas",
+      "categoria": "monitores",
+      "precio": 749.9,
+      "marca": "AOC",
+      "stock": 9,
+      "imagen": "https://cdn.sanity.io/images/hf5b3axp/production/378885272a21d70fd976a1fb2ff767ed6147164c-3840x3840.png?w=1920&fit=max&auto=format",
+      "descripcion": "Monitor gamer IPS Full HD con 144Hz, tiempo de respuesta rápido y AMD FreeSync."
+    },
+    {
+      "id": "26",
+      "nombre": "Monitor MSI Optix G241",
+      "categoria": "monitores",
+      "precio": 899.9,
+      "marca": "MSI",
+      "stock": 8,
+      "imagen": "https://tienda.waliex.com/wp-content/uploads/2021/08/msioptixg241.png",
+      "descripcion": "Monitor gaming de 24 pulgadas con panel IPS, 144Hz y tecnología Adaptive Sync."
+    },
+    {
+      "id": "27",
+      "nombre": "Audífonos Razer Kraken V3",
+      "categoria": "audifonos",
+      "precio": 449.9,
+      "marca": "Razer",
+      "stock": 12,
+      "imagen": "https://rematazo.pe/fotos/6588.png",
+      "descripcion": "Headset gamer con sonido envolvente THX Spatial Audio e iluminación RGB."
+    },
+    {
+      "id": "28",
+      "nombre": "Audífonos Sony WH-1000XM5",
+      "categoria": "audifonos",
+      "precio": 1299,
+      "marca": "Sony",
+      "stock": 5,
+      "imagen": "https://d1ncau8tqf99kp.cloudfront.net/converted/103364_original_local_1200x1050_v3_converted.webp",
+      "descripcion": "Audífonos inalámbricos premium con cancelación activa de ruido y gran autonomía."
+    },
+    {
+      "id": "29",
+      "nombre": "Silla Gamer Corsair TC100 Relaxed",
+      "categoria": "sillas gamer",
+      "precio": 999.9,
+      "marca": "Corsair",
+      "stock": 4,
+      "imagen": "https://nomadaware.com.ec/wp-content/uploads/NomadaWare_silla_corsair_tc100_relaxed_fabric-1.webp",
+      "descripcion": "Silla gamer ergonómica con diseño cómodo, soporte lumbar y materiales resistentes."
+    },
+    {
+      "id": "30",
+      "nombre": "Silla Gamer T-Dagger Knight",
+      "categoria": "sillas gamer",
+      "precio": 599.9,
+      "marca": "T-Dagger",
+      "stock": 10,
+      "imagen": "https://dojiw2m9tvv09.cloudfront.net/23332/product/core-modern-black-34382.png",
+      "descripcion": "Silla gamer con respaldo alto, cojines de soporte y ajuste de altura."
+    },
+    {
+      "id": "31",
+      "nombre": "Micrófono Razer Seiren Mini",
+      "categoria": "microfonos",
+      "precio": 249.9,
+      "marca": "Razer",
+      "stock": 15,
+      "imagen": "https://hca.pe/storage/media/large_DVmgaKYXeeJwsCRcd8B0vuUJJwg5fdvu470DUFiY.png",
+      "descripcion": "Micrófono USB compacto diseñado para streaming, reuniones y creación de contenido."
+    },
+    {
+      "id": "32",
+      "nombre": "Micrófono Blue Yeti USB",
+      "categoria": "microfonos",
+      "precio": 599.9,
+      "marca": "Blue",
+      "stock": 6,
+      "imagen": "https://www.invidcomputers.com/images/0000000000413243000166415Yeti-X-Dark-Grey-Front.png",
+      "descripcion": "Micrófono profesional USB con múltiples patrones de captura para grabación y streaming."
+    },
+    {
+      "id": "33",
+      "nombre": "Mousepad HyperX Pulsefire Mat XL",
+      "categoria": "mousepads",
+      "precio": 149.9,
+      "marca": "HyperX",
+      "stock": 18,
+      "imagen": "https://pe-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/4/Z/4Z7X5AA-1_T1732119377.png",
+      "descripcion": "Mousepad XL con superficie de tela optimizada para movimientos precisos."
+    },
+    {
+      "id": "34",
+      "nombre": "Mousepad SteelSeries QcK Heavy",
+      "categoria": "mousepads",
+      "precio": 189.9,
+      "marca": "SteelSeries",
+      "stock": 13,
+      "imagen": "https://computerarenakh.com/image/catalog/1.TOY%20AND%20DRONE%20/STEELSERIES%20QCK%20HEAVY%20LARGE%20SIZE%20-%20GAMING%20MOUSEPAD-CAC%20UPCOMING%20(2).png",
+      "descripcion": "Mousepad profesional utilizado por jugadores competitivos con base antideslizante."
+    },
+    {
+      "id": "35",
+      "nombre": "Webcam Logitech Brio 4K",
+      "categoria": "webcams",
+      "precio": 699.9,
+      "marca": "Logitech",
+      "stock": 7,
+      "imagen": "https://teldelnorte.com/cdn/shop/products/19mQKTXafTaF8vU8QCnwyAsYg_xnkWoQP.png?v=1591247936",
+      "descripcion": "Webcam profesional 4K con HDR, enfoque automático y reconocimiento facial."
+    },
+    {
+      "id": "36",
+      "nombre": "Webcam Microsoft LifeCam HD-3000",
+      "categoria": "webcams",
+      "precio": 119.9,
+      "marca": "Microsoft",
+      "stock": 20,
+      "imagen": "https://www.discoazul.com/uploads/media/images/microsoft-lifecam-hd-3000-1.png",
+      "descripcion": "Webcam HD sencilla para videollamadas y clases virtuales con conexión USB."
+    },
+    {
+      "id": "37",
+      "nombre": "Teclado ASUS ROG Strix Scope RX",
+      "categoria": "teclados",
+      "precio": 579.9,
+      "marca": "ASUS",
+      "stock": 8,
+      "imagen": "https://dlcdnwebimgs.asus.com/gain/A27E11D7-3711-4A85-B909-1957A0E409E4",
+      "descripcion": "Teclado mecánico gamer con switches ópticos RX y tecnología Aura Sync RGB."
+    },
+    {
+      "id": "38",
+      "nombre": "Mouse ASUS ROG Gladius III",
+      "categoria": "mouses",
+      "precio": 329.9,
+      "marca": "ASUS",
+      "stock": 9,
+      "imagen": "https://bermorzone.com.ph/wp-content/uploads/2023/12/eva2.png",
+      "descripcion": "Mouse gaming inalámbrico con sensor de alta precisión y diseño ergonómico."
+    },
+    {
+      "id": "39",
+      "nombre": "Monitor ViewSonic VX2718",
+      "categoria": "monitores",
+      "precio": 849.9,
+      "marca": "ViewSonic",
+      "stock": 7,
+      "imagen": "https://planettechptystore.com/wp-content/uploads/2025/12/original-1-2.webp",
+      "descripcion": "Monitor gamer curvo de 27 pulgadas con alta frecuencia de actualización."
+    },
+    {
+      "id": "40",
+      "nombre": "Audífonos Corsair HS80 RGB Wireless",
+      "categoria": "audifonos",
+      "precio": 699.9,
+      "marca": "Corsair",
+      "stock": 8,
+      "imagen": "https://www.reprodata.com.pe/web/image/product.template/2728/image_1024?unique=9d53400",
+      "descripcion": "Audífonos inalámbricos gamer con sonido Dolby Audio y micrófono profesional."
+    },
+    {
+      "id": "41",
+      "nombre": "Micrófono Logitech Blue Snowball",
+      "categoria": "microfonos",
+      "precio": 329.9,
+      "marca": "Logitech",
+      "stock": 10,
+      "imagen": "https://hca.pe/storage/media/large_jQKUPPBu0prHeurvG4ETtEYTt9tyiPtYW8LozbHu.webp",
+      "descripcion": "Micrófono USB ideal para podcast, streaming y grabación de voz."
+    },
+    {
+      "id": "42",
+      "nombre": "Silla Gamer XZEAL XZ15",
+      "categoria": "sillas gamer",
+      "precio": 649.9,
+      "marca": "XZEAL",
+      "stock": 6,
+      "imagen": "https://www.tecno-hub.com/web/image/product.product/10238/image_1920?unique=9020a35",
+      "descripcion": "Silla gamer con diseño ergonómico y soporte para largas sesiones."
+    },
+    {
+      "id": "43",
+      "nombre": "Mouse Redragon M913 Impact Elite",
+      "categoria": "mouses",
+      "precio": 249.9,
+      "marca": "Redragon",
+      "stock": 15,
+      "imagen": "https://nomadaware.com.ec/wp-content/uploads/NomadaWare_mouse_inalambrico_redragon_impact_elite_m913-3.webp",
+      "descripcion": "Mouse inalámbrico gamer con sensor ajustable y batería recargable."
+    },
+    {
+      "id": "44",
+      "nombre": "Teclado HyperX Alloy Elite 2",
+      "categoria": "teclados",
+      "precio": 499.9,
+      "marca": "HyperX",
+      "stock": 7,
+      "imagen": "https://www.tecnosmart.com.ec/wp-content/uploads/2026/04/TECLADO-MECANICO-HYPERX-ALLOY-ELITE-2-RGB-SWITCH-ROJO-100-ANTI-GHOST-COMPATIBLE-PS5%E2%84%A2-PS4%E2%84%A2-XBOX-SERIES-XS%E2%84%A2-XBOX-ONE%E2%84%A2-BLACK-4P5N3AIAC8_TECLADOS_12253_1.webp",
+      "descripcion": "Teclado mecánico premium con iluminación RGB y estructura resistente."
+    },
+    {
+      "id": "45",
+      "nombre": "Monitor Samsung ViewFinity S7 32 pulgadas",
+      "categoria": "monitores",
+      "precio": 1599,
+      "marca": "Samsung",
+      "stock": 4,
+      "imagen": "https://images.samsung.com/is/image/samsung/p6pim/pe/ls32d700ealxpe/gallery/pe-viewfinity-s7-27s700d27s702d27s704d-27s706d32s700d32s702d32s704d32s706d-ls32d700ealxpe-thumb-542428134",
+      "descripcion": "Monitor profesional 4K UHD ideal para diseño, productividad y entretenimiento."
+    },
+    {
+      "id": "46",
+      "nombre": "Audífonos JBL Tune 760NC",
+      "categoria": "audifonos",
+      "precio": 299.9,
+      "marca": "JBL",
+      "stock": 18,
+      "imagen": "https://www.jbl.es/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwdbc78ef1/1.JBL_TUNE_760NC_Product%20Image_Hero_Black.png?sw=680&sh=680",
+      "descripcion": "Audífonos inalámbricos con cancelación de ruido y sonido JBL Pure Bass."
+    },
+    {
+      "id": "47",
+      "nombre": "Webcam AVerMedia PW315",
+      "categoria": "webcams",
+      "precio": 399.9,
+      "marca": "AVerMedia",
+      "stock": 8,
+      "imagen": "https://content.etilize.com/rich-marketing/en_us/1066632835/2v7rMDjTBCr2869e1Apd_s0vVMuPag95DiQ7",
+      "descripcion": "Webcam Full HD con corrección automática de luz para streaming."
+    },
+    {
+      "id": "48",
+      "nombre": "Mousepad Razer Strider XXL",
+      "categoria": "mousepads",
+      "precio": 279.9,
+      "marca": "Razer",
+      "stock": 9,
+      "imagen": "https://electroimport.com.pa/wp-content/uploads/2023/10/AC000RZR88.png",
+      "descripcion": "Mousepad híbrido grande con superficie rápida y resistente al agua."
+    },
+    {
+      "id": "49",
+      "nombre": "Micrófono HyperX QuadCast S RGB",
+      "categoria": "microfonos",
+      "precio": 699.9,
+      "marca": "HyperX",
+      "stock": 5,
+      "imagen": "https://pe-media.hptiendaenlinea.com/catalog/product/4/P/4P5P7AA-1_T1714064711.png",
+      "descripcion": "Micrófono USB profesional con iluminación RGB y controles táctiles."
+    },
+    {
+      "id": "50",
+      "nombre": "Silla Gamer Cougar Armor Titan Pro",
+      "categoria": "sillas gamer",
+      "precio": 1299.9,
+      "marca": "Cougar",
+      "stock": 3,
+      "imagen": "https://cougargaming.com/_cgrwdr_/wwdpp/wp-content/uploads/2025/10/Titan-Pro-V2_2_31.webp",
+      "descripcion": "Silla gamer premium con estructura metálica, soporte lumbar y máxima comodidad."
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "nombre": "Usuario Demo",
+      "email": "usuario@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "nombre": "Nico",
+      "email": "nico@gmail.com",
+      "password": "123456"
+    },
+    {
+      "nombre": "Chato Chatito",
+      "email": "chato@hotmail.com",
+      "password": "252525",
+      "id": "BRIq7rkPSJg"
+    },
+    {
+      "nombre": "Sofia Lopez",
+      "email": "lop@gmail.com",
+      "password": "123321",
+      "id": "kJ0xKgLzbRY"
+    },
+    {
+      "nombre": "Nicole Paico",
+      "email": "nicole@gmail.com",
+      "password": "123321",
+      "id": "AEpGtesJ9K0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
